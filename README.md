@@ -3,6 +3,7 @@
 Questo repository contiene il codice svolto per la *Prima Esercitazione* del corso `Laboratorio di Programmazione per Intelligenza Artificiale e per Statistica` (pagine del corso: https://github.com/sarusso/ProgrammingLab).
 
 Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-22-001**]((https://youtu.be/IzRWVpMphGI)) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
+Successivamente, nel video [**CA-22-002**]((https://youtu.be/25DCOxh54yg)) ho svolto il medesimo esercizio in F#.
 
 * 📝 [Link al compito](https://docs.google.com/document/u/1/d/e/2PACX-1vSsSDmsHj0dsqG3rs1Erv2KGksKCSpk27RAUfrL5p6aaIAIplReUfOnh8NUNP-D6j_uOhF1fhTfd5Hg/pub)
 * 📹 [Link al video](https://youtu.be/IzRWVpMphGI)
@@ -12,10 +13,13 @@ L'esercizio è stato svolto con i seguenti linguaggi di programmazione:
 * Python 3.7.6
 * C++ (gcc 11.3)
 * Java (14.0.2)
+* F#
 
 utilizzando l'ambiente di sviluppo [Visual Studio Code](https://code.visualstudio.com/download) su Ubuntu 22.04 (Jammy Jellyfish).
+Unica eccezione è fatta per F#, che è sempre stato fatto in Visual Studio Code, ma su Windows 11.
 
 Il codice caricato durante il commit iniziale è esattamente uguale a quello visto nel video. Successivi cambiamenti potranno essere identificati utilizzando `diff`.
+Un commit successivo è stato fatto per la soluzione in F#, ma gli altri file non dovrebbero essere stati modificati.
 
 # Contatti
 
